@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SerializationCallbackScript : MonoBehaviour, ISerializationCallbackReceiver
 {
+	//change to this project
    public void OnBeforeSerialize()
 	{
 		
