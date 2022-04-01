@@ -7,7 +7,7 @@ public class SerializationCallbackScript : MonoBehaviour, ISerializationCallback
 	//change to this project
    public void OnBeforeSerialize()
 	{
-		
+		//Edited in git hub web
 	}
 	public void OnAfterDeserialize()
 	{
